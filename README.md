@@ -27,4 +27,4 @@ pip install pyperclip
 ```
 ### Downloading
 
-Simply download the python file from the [Releases]() and run it using Python Launcher and you're done!
+Simply download the python file from the [Releases](https://github.com/ShadowStonks/Password-Generator/releases/tag/1.0) and run it using Python Launcher and you're done!
