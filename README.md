@@ -14,7 +14,7 @@ These are the things you need to run this script:
 Python 3, TKInter, Pyperclip.
 ```
 
-### Installing
+### Installing Prerequisites
 
 How to install these prerequisites (make sure to preinstall python 3 from [here](https://www.python.org/downloads/):
 
@@ -25,3 +25,6 @@ pip install tkinter
 ```
 pip install pyperclip
 ```
+### Downloading
+
+Simply download the python file from the [Releases]() and run it using Python Launcher and you're done!
